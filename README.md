@@ -46,16 +46,6 @@
 **Integrations:** Stripe · Google Calendar API · Firebase Auth · yfinance · Finnhub · Brevo
 
 **Tools:** Git · GitHub · Vercel · VS Code · Jupyter · Linux
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parvjain15&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvjain15&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 ---
 
 <p align="center"><i>Always building. Always learning.</i></p>
