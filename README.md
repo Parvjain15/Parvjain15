@@ -46,6 +46,7 @@
 **Integrations:** Stripe · Google Calendar API · Firebase Auth · yfinance · Finnhub · Brevo
 
 **Tools:** Git · GitHub · Vercel · VS Code · Jupyter · Linux
+
 ---
 
 <p align="center"><i>Always building. Always learning.</i></p>
